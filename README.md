@@ -10,6 +10,9 @@ apps downloaded:
 4. k9s
 5. python3
 6. mysql(a bit challenging since we need to install homebrew,and homebrew is on linux)
+   
   6.1 ubuntu
+  
   6.2 homebrew
+  
   6.3 mysql
